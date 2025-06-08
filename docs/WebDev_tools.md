@@ -1,5 +1,12 @@
 
 
+# IDE: VScode
+
+## Extensions
+- prettier
+- 
+
+
 # [NodeJS](https://nodejs.org/en/)
 [JS](https://www.jschallenger.com/javascript-practice/)
 
